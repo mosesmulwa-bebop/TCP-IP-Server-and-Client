@@ -1,5 +1,5 @@
 # TCP-IP-Server-and-Client
-A simple TCP/IP server a client to echo back message sent to server back to client. 
+A simple TCP/IP server and client that echoes back message sent to server back to client. 
 
 # Files
 ## Client.py
