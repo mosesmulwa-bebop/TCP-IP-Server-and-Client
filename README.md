@@ -3,9 +3,9 @@ A simple TCP/IP server and client that echoes back message sent to server back t
 
 # Files
 ## Client.py
-Contains python code for the client
+Contains python code for the client.
 ## Server.py
-Contains python code for the server
+Contains python code for the server.
 
 
 # Useful links:
